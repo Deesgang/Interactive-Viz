@@ -1,0 +1,47 @@
+[
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "CANCELED",
+   "Total Orders": 3
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "CLOSED",
+   "Total Orders": 23
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "COMPLETE",
+   "Total Orders": 30
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "ON_HOLD",
+   "Total Orders": 7
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "PAYMENT_REVIEW",
+   "Total Orders": 4
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "PENDING",
+   "Total Orders": 22
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "PENDING_PAYMENT",
+   "Total Orders": 54
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "PROCESSING",
+   "Total Orders": 15
+ },
+ {
+   "Order Country": "Afganistán",
+   "Order Status": "SUSPECTED_FRAUD",
+   "Total Orders": 5
+ }
+]
